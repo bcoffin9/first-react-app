@@ -1,3 +1,9 @@
+This version of the React tutorial includes the six feature requests in the codebase. They are marked with a comment (i.e. //challenge 3).
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
