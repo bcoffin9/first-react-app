@@ -45,10 +45,12 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
   }
   
   .game-info {
-    margin-left: 20px;
+    margin-left: 14px;
+    margin-top: 14px;
   }
 
   button.history {
@@ -126,10 +128,6 @@ body {
     font-family: 'ui-monospace';
     font-size: 28px;
     text-align: center;
-  }
-
-  .game {
-    justify-content: center;
   }
 
   .winning.square {
